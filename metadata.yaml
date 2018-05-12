@@ -1,4 +1,8 @@
 _repo: The-Brochure-Series-of-Architectural-Illustration-vol-06-No-1-January-1900-The-Ten-Most-Beaut__47687
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47687-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hamlin, A. D. F. (Alfred Dwight Foster)
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47687#The-Brochure-Series-of-Architectural-Illustration-vol-06-No-1-January-1900-The-Ten-Most-Beaut_
 gutenberg_issued: '2014-12-17'
 gutenberg_type: Text
 identifiers:
